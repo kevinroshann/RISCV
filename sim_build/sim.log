@@ -1,0 +1,21 @@
+     -.--ns INFO     gpi                                ..mbed/gpi_embed.cpp:108  in set_program_name_in_venv        Using Python virtual environment interpreter at OSS CAD Suite/bin/python
+     -.--ns INFO     gpi                                ../gpi/GpiCommon.cpp:101  in gpi_print_registered_impl       VPI registered
+     0.00ns INFO     cocotb                             Running on Icarus Verilog version 13.0 (devel)
+     0.00ns INFO     cocotb                             Running tests with cocotb v2.0.0.dev0+393b3284 from /home/kevin/fpga/oss-cad-suite/lib/python3.11/site-packages/cocotb-2.0.0.dev0+393b3284-py3.11-linux-x64.egg/cocotb
+     0.00ns INFO     cocotb                             Seeding Python random module with 1790307657
+     0.00ns INFO     cocotb.regression                  running tb_soc.test_riscv_soc (1/1)
+                                                            Testbench to execute RISC-V instructions and check register results.
+   280.00ns INFO     cocotb.soc                         Reset released. CPU executing instructions...
+  2380.00ns INFO     cocotb.soc                         Register x3 value: 20 (Expected: 20)
+  2380.00ns INFO     cocotb.soc                         Register x4 value: 10 (Expected: 10)
+  2380.00ns INFO     cocotb.soc                         Register x6 value: 30 (Expected: 30)
+  2380.00ns INFO     cocotb.soc                         All instruction assertions passed successfully!
+  2380.00ns INFO     cocotb.regression                  tb_soc.test_riscv_soc passed
+  2380.00ns INFO     cocotb.regression                  **************************************************************************************
+                                                        ** TEST                          STATUS  SIM TIME (ns)  REAL TIME (s)  RATIO (ns/s) **
+                                                        **************************************************************************************
+                                                        ** tb_soc.test_riscv_soc          PASS        2380.00           0.00     522449.77  **
+                                                        **************************************************************************************
+                                                        ** TESTS=1 PASS=1 FAIL=0 SKIP=0               2380.00           0.01     261587.69  **
+                                                        **************************************************************************************
+                                                        
