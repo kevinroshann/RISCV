@@ -2,22 +2,22 @@
      -.--ns INFO     gpi                                ../gpi/GpiCommon.cpp:101  in gpi_print_registered_impl       VPI registered
      0.00ns INFO     cocotb                             Running on Icarus Verilog version 13.0 (devel)
      0.00ns INFO     cocotb                             Running tests with cocotb v2.0.0.dev0+393b3284 from /home/kevin/fpga/oss-cad-suite/lib/python3.11/site-packages/cocotb-2.0.0.dev0+393b3284-py3.11-linux-x64.egg/cocotb
-     0.00ns INFO     cocotb                             Seeding Python random module with 1790327835
+     0.00ns INFO     cocotb                             Seeding Python random module with 1790391321
      0.00ns INFO     cocotb.regression                  running tb_soc.test_riscv_soc (1/1)
    280.00ns INFO     cocotb.soc                         Reset released
-  2380.00ns INFO     cocotb.soc                         Register x1 value: 4 
-  2380.00ns INFO     cocotb.soc                         Register x2 value: 4 
-  2380.00ns INFO     cocotb.soc                         Register x3 value: 8 
-  2380.00ns INFO     cocotb.soc                         Register x4 value: 0 
-  2380.00ns INFO     cocotb.soc                         Register x5 value: 0 
-  2380.00ns INFO     cocotb.soc                         Register x6 value: 0 
-  2380.00ns INFO     cocotb.soc                         All instruction assertions passed successfully!
-  2380.00ns INFO     cocotb.regression                  tb_soc.test_riscv_soc passed
-  2380.00ns INFO     cocotb.regression                  **************************************************************************************
+  3780.00ns INFO     cocotb.soc                         Register x1 value: 4 
+  3780.00ns INFO     cocotb.soc                         Register x2 value: 4 
+  3780.00ns INFO     cocotb.soc                         Register x3 value: 24 
+  3780.00ns INFO     cocotb.soc                         Register x4 value: 0 
+  3780.00ns INFO     cocotb.soc                         Register x5 value: 0 
+  3780.00ns INFO     cocotb.soc                         Register x6 value: 0 
+  3780.00ns INFO     cocotb.soc                         All instruction assertions passed successfully!
+  3780.00ns INFO     cocotb.regression                  tb_soc.test_riscv_soc passed
+  3780.00ns INFO     cocotb.regression                  **************************************************************************************
                                                         ** TEST                          STATUS  SIM TIME (ns)  REAL TIME (s)  RATIO (ns/s) **
                                                         **************************************************************************************
-                                                        ** tb_soc.test_riscv_soc          PASS        2380.00           0.00     489575.66  **
+                                                        ** tb_soc.test_riscv_soc          PASS        3780.00           0.01     526586.73  **
                                                         **************************************************************************************
-                                                        ** TESTS=1 PASS=1 FAIL=0 SKIP=0               2380.00           0.01     254660.77  **
+                                                        ** TESTS=1 PASS=1 FAIL=0 SKIP=0               3780.00           0.01     322127.54  **
                                                         **************************************************************************************
                                                         
