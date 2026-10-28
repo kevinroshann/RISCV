@@ -12,3 +12,6 @@ Next im studying and going to implement the cordic accelerator and the full inve
 The 3d print are taken from opensource cad files.
 
 The FPGA used in icebreaker fpga.
+
+SERVO V1 video
+https://youtu.be/h5vo0ar68hQ
