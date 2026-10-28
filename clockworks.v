@@ -20,7 +20,7 @@
  *     ICE_STICK if board is an IceStick.
  */
 
-`include "RTL/PLL/femtopll.v"
+`include "PLL/femtopll.v"
 
 `ifdef ECP5_EVN
 `define NEGATIVE_RESET

@@ -1,4 +1,4 @@
-DEVICE=/dev/ttyUSB0   # replace by the terminal used by your device
+DEVICE=/dev/ttyUSB1   # replace by the terminal used by your device
 BAUDS=115200
 
 

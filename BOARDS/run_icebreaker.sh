@@ -11,3 +11,4 @@ icetime -p BOARDS/$BOARD.pcf -P $FPGA_PACKAGE -r $PROJECTNAME.timings -d up5k -t
 icepack $PROJECTNAME.asc $PROJECTNAME.bin || exit
 iceprog $PROJECTNAME.bin || exit
 echo DONE.
+

@@ -40,3 +40,4 @@ module corescore_emitter_uart
    end
 
 endmodule
+

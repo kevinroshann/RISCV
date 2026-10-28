@@ -10,3 +10,8 @@ set_io TXD 9
 set_io RXD 6
 
 set_io RESET 10
+
+set_io SERVO_PWM1 4
+set_io SERVO_PWM2 2
+set_io SERVO_PWM3 3
+set_io SERVO_PWM4 48
