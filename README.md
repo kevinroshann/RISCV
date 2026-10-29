@@ -8,8 +8,8 @@ I followed bruno levy and onur multu to create this.
 Next implemented the servo as memory mapped and controlled the servo using pwm.
 The instuctions is being generated from c program using gnu tools and loaded to bram.
 
-Next im studying and going to implement the cordic accelerator and the full inverse kinematics of the arm.
-The 3d print are taken from opensource cad files.
+Next step is to implement the inverse kinematics using any mcu and make it work.
+Then need to implement it on the FPGA
 
 The FPGA used in icebreaker fpga.
 
