@@ -9,7 +9,8 @@ Next implemented the servo as memory mapped and controlled the servo using pwm.
 The instuctions is being generated from c program using gnu tools and loaded to bram.
 
 Next step is to implement the inverse kinematics using any mcu and make it work.
-Then need to implement it on the FPGA
+Then need to implement it on the FPGA.
+Need to work on cordic accelerators and mac units
 
 The FPGA used in icebreaker fpga.
 
